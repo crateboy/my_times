@@ -143,3 +143,31 @@ p {
     border-bottom: 1px solid black;
     padding: 10px 20px;
 }
+
+footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	background-color: MediumAquamarine;
+    margin: auto;
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.footnav {
+    margin: 15px;
+}
+
+.my-times {
+	font-family: Georgia;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    margin-right: 20px;
+}
+
+.footer1 {
+	margin: 20px;
+}
